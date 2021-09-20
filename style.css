@@ -1,0 +1,22 @@
+*{
+    padding-left: 20px;
+    padding-right: 5px;
+   
+   
+    
+
+}
+img{
+   height: 580px;
+   width:400px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+}
+#abc{
+    
+    padding-bottom: 10px;
+    padding-top: 350px;
+} 
+#container{
+    display: flex;
+} 
